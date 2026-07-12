@@ -34,6 +34,8 @@ This project focuses on forecasting retail sales using historical Superstore sal
 - summary.pdf
 - train.csv
 
+
 ## Author
-Anand Chahar
-KIET Group of Institutions
+
+- **Name:** Anand Chahar
+- **Institution:** KIET Group of Institutions
